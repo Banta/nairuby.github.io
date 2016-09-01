@@ -1,5 +1,5 @@
 ---
-title: Nairobi Ruby Brigade
+title: Nairuby - Nairobi Ruby Community
 layout: homepage
 sitemap: true
 permalink: /
@@ -21,9 +21,9 @@ There are many ways to participate in Nairuby:
   everyone is welcome to attend:
 
     * **General meetings** for formal presentations, lightning talks and group
-    discussions on topics of interest to those working with Ruby. Meetings are
-    usually the first Tuesday of the month, _"Ruby Tuesday"_. Let us know if
-    you're interested in presenting.
+    discussions on topics of interest to those working with Ruby. Meetups are
+    usually the second Thursday of the month, _"Ruby Thursdays"_. Check our [calender][calender] for upcoming meetups.
+    Let us know if you're interested in presenting.
 
     * **Beginner's meetings** for one-on-one help. Programmers with any level of
     Ruby experience are welcome at these so they can get and offer help at
@@ -84,6 +84,7 @@ various software projects and initiaves. Some of the notable ones are:
 [presentations]: /presentations/
 [ror]: http://rubyonrails.org/
 [twitter]: https://twitter.com/NairubyKE
+[calender]: http://www.meetup.com/Nairuby/events/
 
 [1]: https://github.com/Nairuby/nairuby.github.io
 [2]: http://jekyllrb.com/
