@@ -78,6 +78,7 @@ various software projects and initiaves. Some of the notable ones are:
 * [Annotator Store Rails engine][18] by [King'ori Maina][15]
 * [Nairobi Dev School][16] by [Njeri Chelimo Martha][17]
 * [Pesapal Gem][14] by [King'ori Maina][15]
+* [Global Sports Innovation][20] by [Willian Wanyama][@wanyama_man] and [Njira Perci][@njirap] 
 
 [code-of-conduct]: /about/code-of-conduct/
 [contribute-code]: https://github.com/Nairuby
@@ -108,3 +109,6 @@ various software projects and initiaves. Some of the notable ones are:
 [16]: http://nairobidevschool.org/
 [17]: https://twitter.com/NjeriChelimo
 [18]: https://github.com/itsmrwave/annotator_store-gem
+[20]: http://umpireref.com/
+[@wanyama_man]: https://twitter.com/wanyama_man
+[@njirap]: http://twitter.com/njirap
