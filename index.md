@@ -22,8 +22,8 @@ There are many ways to participate in Nairuby:
 
     * **General meetings** for formal presentations, lightning talks and group
     discussions on topics of interest to those working with Ruby. Meetups are
-    usually the second Thursday of the month, _"Ruby Thursdays"_. Check our [calender][calender] for upcoming meetups.
-    Let us know if you're interested in presenting.
+    usually on the second Thursday of the month, _"Ruby Thursdays"_. Check our [calender][calender] for upcoming meetups.
+    Let us know if you're interested in presenting info[at]nairuby.org.
 
     * **Beginner's meetings** for one-on-one help. Programmers with any level of
     Ruby experience are welcome at these so they can get and offer help at
@@ -44,9 +44,11 @@ related jobs and gigs near Nairobi if you follow the job posting guidelines.
 * **[Contribute code][contribute-code] to Nairuby's official homepage** _(this site)_. The [code is
 publicly available on GitHub][1] and is powered by [Jekyll][2]. Help us close [open issues][3] or [create new issues][4].
 
-* **[Follow us on Twitter][twitter]** for meeting announcements and other general
+* **Follow us on Social Media** for meeting announcements and other general
   info. Ruby related [tweets from the community with #Nairuby hashtag][13]
   should be retweeted by [@NairubyKE][twitter] as soon as it's reviewed.
+  On Facebook we you can find us on [NairubyKE][facebook-page]. We are also on [Slack][slack-link],
+  whatsapp and Telegram, shoot us an email at info[at]nairuby.org to join.
 
 * Follow our **[Code of Conduct][code-of-conduct]**.
 
@@ -85,6 +87,8 @@ various software projects and initiaves. Some of the notable ones are:
 [ror]: http://rubyonrails.org/
 [twitter]: https://twitter.com/NairubyKE
 [calender]: http://www.meetup.com/Nairuby/events/
+[facebook-page]: https://web.facebook.com/nairubyke/
+[slack-link]: https://nairubyke.slack.com/
 
 [1]: https://github.com/Nairuby/nairuby.github.io
 [2]: http://jekyllrb.com/
